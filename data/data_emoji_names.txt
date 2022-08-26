@@ -845,3 +845,6 @@
 3297;congratulations
 3299;secret
 23E9;fast_forward
+1F9F8;teddy_bear
+1FA7A;stethoscope
+1F90D;white_heart
